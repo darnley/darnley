@@ -14,6 +14,6 @@ I work as a software developer to help companies to grow up fast using scalable 
   - Data Factory
   - Azure SQL
   - Batch
-  - ...
+    ...
 ## Useful links
 👉 [LinkedIn](https://www.linkedin.com/in/darnley-costa)
