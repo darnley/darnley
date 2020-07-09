@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I work as a software developer to help companies to grow up fast using scalable solutions in cloud.
+
+## Useful links
+- [LinkedIn](https://www.linkedin.com/in/darnley-costa)
+
 <!--
 **darnley/darnley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
