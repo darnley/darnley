@@ -11,7 +11,7 @@ I work as a software developer to help companies to grow up fast using scalable 
   - Functions
   - Storage (including Table, Queue and Blob storage)
   - EventHub for event-driven architectures
-  - Data Factory
+  - Data Factory and SSIS for ETL
   - Azure SQL
   - Batch
   - ... and other services
