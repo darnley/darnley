@@ -15,6 +15,6 @@ I work as a software developer to help companies to grow up fast using scalable 
   - Azure SQL
   - Batch
   - ... and other services
- - Improving my skills with big data processing tools, such as Spark and Hive 🚀
+ - Improving my skills with big data processing tools, such as **Spark** and **Hive** 🚀
 ## Useful links
 👉 [LinkedIn](https://www.linkedin.com/in/darnley-costa)
