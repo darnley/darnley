@@ -6,7 +6,7 @@ I work as a software developer to help companies to grow up fast using scalable 
 - Front-end development **using ReactJS and Angular** 🖼
 - Back-end development **using .NET Framework, .NET Core and Node.js** 🏗
 - Architectural design and development for **relational databases (MySQL, PostgreSQL and SQL Server)** and **non-relational databases (MongoDB and Redis)** 📦
-- Scalable cloud archicture using **Microsoft Azure** with most **serverless** services such as: ☁
+- Scalable cloud architecture using **Microsoft Azure** with most **serverless** services such as: ☁
   - LogicApp
   - Functions
   - Storage (including Table, Queue and Blob storage)
