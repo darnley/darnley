@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 😀
 
 I work as a software developer to help companies to grow up fast using scalable solutions in cloud.
 
