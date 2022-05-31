@@ -15,6 +15,14 @@ I work as a software developer to help companies to grow up fast using scalable 
   - SQL Databases
   - Batch
   - ... and other services
+- Scalable cloud architecture using **AWS** with most **serverless** services too such as: ☁
+  - ECS/Fargate
+  - S3
+  - Lambda
+  - API Gateway
+  - SQS
+  - RDS and Aurora
+  - DynamoDB
  - Improving my skills with big data processing tools, such as **Spark** and **Hive** 🚀
 ## Useful links
 👉 [LinkedIn](https://www.linkedin.com/in/darnley-costa)
